@@ -40,6 +40,8 @@ def main():
 
 
 
+    # pip install hashid
+    # > unknown hash
 
 
 
